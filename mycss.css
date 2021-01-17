@@ -1,0 +1,30 @@
+
+
+.mainPage
+{ 
+
+    background-image: url(img/BDice.png);
+    background-position: right;
+    background-position-y: 200px;
+    background-repeat: no-repeat;
+	background-color: #299982;
+  
+}
+.container
+{
+	margin: center; 
+	
+}
+ h1 { 
+        margin: 100px; 
+        font-family: Hanalei Fill; 
+        font-size: 8rem; 
+        color: #FFFFFF; 
+        text-align: center; 
+		padding: 85px;
+}
+.container-butn
+{
+	padding-left: 43%;
+	padding-bottom: -80px;
+	

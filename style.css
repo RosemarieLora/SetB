@@ -1,0 +1,51 @@
+.image1, .image2 {
+  height: 250px;
+  width: 300px;
+  margin-top: -5%;
+  
+
+}
+.mainPage
+{
+
+    background-image: url(img/BDice.png);
+    background-position: right;
+    background-position-y: 200px;
+    background-repeat: no-repeat;
+  
+}
+
+    .container { 
+        width: 70%; 
+        margin: auto; 
+        text-align: center; 
+    } 
+    .dice-area { 
+        text-align: center; 
+        display: inline-block; 
+        margin: 10px; 
+    } 
+    body { 
+        background-color: #299982; 
+        margin: 0; 
+    } 
+    h1 { 
+        margin: 30px; 
+        font-family: Hanalei Fill; 
+        font-size: 6rem; 
+        color: #FFFFFF; 
+        text-align: center; 
+   } 
+    p { 
+        font-size: 2rem; 
+        color: #000000; 
+		text-shadow: 2px 0 #FFFFFF;
+        font-family: Cambria, "Hoefler Text";
+    } 
+    img { 
+        width: 100%; 
+    } 
+    .butn { 
+        padding-top: 37px; 
+    } 
+   
